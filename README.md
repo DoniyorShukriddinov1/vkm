@@ -8,4 +8,4 @@ __Bot buyruqlari__:
 /top - **Ko'p tinglangan musiqalar**<br>
 /my - **Playlist**<br><br>
 
-Murojaat uchun: [t.me/TILON](t.me/TILON)
+Murojaat uchun: t.me/BOT_FAQ
